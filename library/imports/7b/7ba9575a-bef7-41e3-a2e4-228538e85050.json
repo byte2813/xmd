@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "duizhang",
+    "texture": "f4e18fc7-27e6-475c-9413-1c061fc3c20b",
+    "atlas": "139a8d14-83ef-4095-b772-96789bd5a46f",
+    "rect": [
+      300,
+      604,
+      150,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

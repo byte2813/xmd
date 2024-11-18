@@ -1,0 +1,134 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "roles.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bafumei": {
+      "__uuid__": "6be9a8be-861e-4dad-a10d-f9888b2fddab"
+    },
+    "banhua": {
+      "__uuid__": "a8819cb5-2108-4944-89ca-158da27857c0"
+    },
+    "baoma": {
+      "__uuid__": "3f7847a3-0d9b-463a-b2d7-56ddcbcdc3e7"
+    },
+    "benchi": {
+      "__uuid__": "36a34cba-27f1-4d8b-a486-e94d8c312138"
+    },
+    "bieshu": {
+      "__uuid__": "4d9fa090-f3ea-4571-8e58-ad481bf46354"
+    },
+    "chaomo": {
+      "__uuid__": "116aed7a-3e49-4a44-8bb4-6b5690ef5125"
+    },
+    "dage": {
+      "__uuid__": "12260716-93de-47b3-8f62-08039f281c07"
+    },
+    "duizhang": {
+      "__uuid__": "7ba9575a-bef7-41e3-a2e4-228538e85050"
+    },
+    "falali": {
+      "__uuid__": "48eef757-681d-4b5b-bb68-c8cd7b83c593"
+    },
+    "fengtian": {
+      "__uuid__": "993d9ca5-6927-4778-97bd-58049d49604e"
+    },
+    "gongyu": {
+      "__uuid__": "fec1547b-3270-43d2-9616-2bc48b1d2bb5"
+    },
+    "guwu": {
+      "__uuid__": "10d77960-2b56-44f3-88d1-e48b27391ea9"
+    },
+    "hushi": {
+      "__uuid__": "d996b3ef-22bf-4a95-b154-2da6e8b33806"
+    },
+    "kongjie": {
+      "__uuid__": "93ea15d3-baa3-4858-a53f-437a9f2a76ea"
+    },
+    "lanbojini": {
+      "__uuid__": "2e3018b8-4b0e-445d-bb7a-f7231c06bcf4"
+    },
+    "laoshi": {
+      "__uuid__": "44c6f051-66b1-4899-bf10-9da71d49d952"
+    },
+    "lianjiafang": {
+      "__uuid__": "e9358b4c-8a63-4472-b270-ef9d41e9717c"
+    },
+    "lvshi": {
+      "__uuid__": "a2b20de8-05a5-4683-a792-a2cc510d797e"
+    },
+    "noman": {
+      "__uuid__": "73cbd720-78c5-4c87-817b-2c55f909d960"
+    },
+    "nowoman": {
+      "__uuid__": "1af5e6ee-fa87-4e76-a987-675152539e1a"
+    },
+    "qirui": {
+      "__uuid__": "1683094e-54da-4d9b-95dd-d5a947b9237d"
+    },
+    "shimei": {
+      "__uuid__": "71cece23-5273-4628-8935-151bbfb1bc18"
+    },
+    "shixiong": {
+      "__uuid__": "e7552b47-5037-49df-a91c-0d2e24844fae"
+    },
+    "siheyuan": {
+      "__uuid__": "67ba2f57-d75a-4dcd-a68c-1725a060d014"
+    },
+    "text_baifumei": {
+      "__uuid__": "be8bc807-6801-4ca9-94f9-6a6aaea98d45"
+    },
+    "text_banhua": {
+      "__uuid__": "6c57eaf2-10ef-4f77-b1ad-1582b0f6ad79"
+    },
+    "text_chaomo": {
+      "__uuid__": "60af910b-2cbc-4813-94b0-55910b56f402"
+    },
+    "text_dage": {
+      "__uuid__": "afbe77f4-867a-4fab-a13c-97103d640b5b"
+    },
+    "text_duizhang": {
+      "__uuid__": "29dab1bd-364d-4ea8-a872-49dab1c516b4"
+    },
+    "text_hushi": {
+      "__uuid__": "5d1e56f6-6b37-40ee-aded-c80d3fd384fc"
+    },
+    "text_kongjie": {
+      "__uuid__": "1ae5caa3-5fd7-4f29-acf8-ab8dcd08ac92"
+    },
+    "text_laoshi": {
+      "__uuid__": "6201f29c-20dd-48c2-a6eb-15e3684e5b0b"
+    },
+    "text_lvshi": {
+      "__uuid__": "8cbb6849-f8d5-408d-bd2e-f7a5e8eb41ce"
+    },
+    "text_shimei": {
+      "__uuid__": "9311043b-caa1-45c4-a6ee-602c5b4ebe16"
+    },
+    "text_shixiong": {
+      "__uuid__": "aeb3f597-fd91-42b0-99f8-90e6fbd9b63a"
+    },
+    "text_xiaocao": {
+      "__uuid__": "f5ae5eab-b598-4e8c-9c4e-4b699ead0972"
+    },
+    "text_xiaoxianrou": {
+      "__uuid__": "217addc4-1368-4857-a400-28c31f15358f"
+    },
+    "text_zongcai": {
+      "__uuid__": "cf15661a-3fa5-4445-bc2c-e46996e1a36b"
+    },
+    "xiaocao": {
+      "__uuid__": "870ebee8-35d0-433d-b4a1-3f5d42645af5"
+    },
+    "xiaoxianrou": {
+      "__uuid__": "5ad2f033-990b-413a-adc0-df81aa7a7173"
+    },
+    "yangfang": {
+      "__uuid__": "c5d32cfd-f6d2-4a09-bd26-704108a8e439"
+    },
+    "zongcai": {
+      "__uuid__": "c23fd429-dd24-435f-a0c8-70011847302e"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bigcaishen",
+    "texture": "807f5496-3d86-4567-9019-765c628037cc",
+    "atlas": "",
+    "rect": [
+      63,
+      54,
+      295,
+      375
+    ],
+    "offset": [
+      -5.5,
+      -19.5
+    ],
+    "originalSize": [
+      432,
+      444
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

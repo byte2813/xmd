@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fengkuang",
+    "texture": "9fccf715-e739-44f2-b179-3fef85d01c6d",
+    "atlas": "",
+    "rect": [
+      15,
+      167,
+      970,
+      208
+    ],
+    "offset": [
+      0,
+      -21
+    ],
+    "originalSize": [
+      1000,
+      500
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

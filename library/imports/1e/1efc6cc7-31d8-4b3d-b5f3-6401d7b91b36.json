@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sexBg",
+    "texture": "f035436a-9591-4a16-87c1-4dbb4a09a531",
+    "atlas": "c2802fac-91e7-427f-b845-b976bb609cc5",
+    "rect": [
+      576,
+      2,
+      444,
+      288
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      444,
+      288
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

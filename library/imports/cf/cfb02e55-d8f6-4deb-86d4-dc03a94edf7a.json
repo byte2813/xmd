@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chuangyeBg",
+    "texture": "f035436a-9591-4a16-87c1-4dbb4a09a531",
+    "atlas": "c2802fac-91e7-427f-b845-b976bb609cc5",
+    "rect": [
+      142,
+      519,
+      340,
+      170
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      340,
+      170
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

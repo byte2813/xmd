@@ -1,0 +1,356 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "main.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "CoinB": {
+      "__uuid__": "136d6d4c-b9c4-4759-9fcf-c07026cb6d0d"
+    },
+    "TipNode": {
+      "__uuid__": "98080cb4-e8f0-49b0-89f0-a2e52c626a3c"
+    },
+    "Treat_txt": {
+      "__uuid__": "1eac857a-f44e-4783-9029-7ff14b24e246"
+    },
+    "active_txt_y": {
+      "__uuid__": "b237b54f-d9d2-4fcc-9348-10aaea805e57"
+    },
+    "addBtn": {
+      "__uuid__": "183feee9-990c-4ae7-b8a6-168e311e2485"
+    },
+    "allasset": {
+      "__uuid__": "97db54dd-20c9-40af-8e47-fe4f15bc420c"
+    },
+    "allasset_icon": {
+      "__uuid__": "0b8d1040-2ad5-4dce-a134-e35016868265"
+    },
+    "bafet": {
+      "__uuid__": "2ff9e14e-ff33-4b91-a749-0868c0308c2d"
+    },
+    "bdzc": {
+      "__uuid__": "73797203-d113-4af8-98cb-39dce06891b8"
+    },
+    "belong": {
+      "__uuid__": "52b2d52a-7002-4022-88d1-f8d107f17ea9"
+    },
+    "black_jia": {
+      "__uuid__": "167e165f-a6e7-4bfe-a97f-9bf1f274f595"
+    },
+    "blueBtnBg": {
+      "__uuid__": "4c2d8db3-f43f-40f6-94a1-9cf7f59d161f"
+    },
+    "blus_jia": {
+      "__uuid__": "78e48cab-fdd1-432a-8cc4-4b7f76eccc7f"
+    },
+    "box": {
+      "__uuid__": "1434c42b-0647-4768-b25e-dbb0f120ba96"
+    },
+    "box2": {
+      "__uuid__": "8312b6b0-c423-4d27-a296-5f3023d7b742"
+    },
+    "box_bg": {
+      "__uuid__": "44e6fec9-ac88-4346-bef8-0ad664636a7a"
+    },
+    "bsqj": {
+      "__uuid__": "c0a0a7e0-f2cc-4987-8d34-a5d446bf63e8"
+    },
+    "btn_gray": {
+      "__uuid__": "93084b88-dceb-40c8-aa19-53b9d9b83f4b"
+    },
+    "businessDefault": {
+      "__uuid__": "6b67a5c1-d26e-4c9c-9ce3-755d6b747824"
+    },
+    "businessSelect": {
+      "__uuid__": "78dadc31-3442-4d16-9047-d1e91b4e9448"
+    },
+    "buyT": {
+      "__uuid__": "360de121-a919-4966-a878-1a1e7a39e954"
+    },
+    "carDefault": {
+      "__uuid__": "6a4c6c7f-6acf-4d80-a1d1-4948b1e6a229"
+    },
+    "carSelect": {
+      "__uuid__": "49738a58-3390-4703-8af1-2ec703063174"
+    },
+    "cash": {
+      "__uuid__": "b5ce1528-a828-42fe-af6b-2fc3823d8bbf"
+    },
+    "circle": {
+      "__uuid__": "4de9eb05-0ffe-4c7d-9fe5-6facc7e471de"
+    },
+    "close_icon": {
+      "__uuid__": "f06abab7-ca00-43eb-a902-4dacae114882"
+    },
+    "costDefault": {
+      "__uuid__": "6bd5ff1e-73cf-4e0e-9b04-9b7612c36c6a"
+    },
+    "costSelect": {
+      "__uuid__": "64736a06-047a-4c77-a50d-be6737cc90d0"
+    },
+    "dateDefault": {
+      "__uuid__": "b2eca261-abfd-48b4-aca6-cc2ee50aef06"
+    },
+    "dateSelect": {
+      "__uuid__": "0d5cb7dd-76a6-449e-b78a-72ff724fd8cb"
+    },
+    "dateitembox": {
+      "__uuid__": "4a5a1c3b-8b70-41e6-9df6-87f2a5ef7608"
+    },
+    "dis_marry": {
+      "__uuid__": "69ea3244-8c56-47ae-ac2a-c34510c30b61"
+    },
+    "down": {
+      "__uuid__": "fa87f1fe-8817-486c-ae2e-a04d27c2db17"
+    },
+    "dup": {
+      "__uuid__": "5d35ec71-b357-4f03-bd9c-0f86cd6156d7"
+    },
+    "enjoyDefault": {
+      "__uuid__": "c914c703-2271-4cd9-86d9-bfcc2e6927e3"
+    },
+    "enjoySelect": {
+      "__uuid__": "70e460cf-dc90-48ee-a692-504e1c5e5a33"
+    },
+    "eventBg": {
+      "__uuid__": "b0c62f87-df2d-4741-acc2-02e52a3c343c"
+    },
+    "fundation": {
+      "__uuid__": "6e106577-71bb-4e1e-8053-2ea3377d3d6e"
+    },
+    "funny": {
+      "__uuid__": "22c3a190-7d5f-4950-b19a-0416ffc6bff6"
+    },
+    "greenBtnBg": {
+      "__uuid__": "0ef75b68-cda6-4245-a934-5851de1446d1"
+    },
+    "guideBg": {
+      "__uuid__": "d150b5db-a9a5-4946-9810-69ecb09372f6"
+    },
+    "guidearrow": {
+      "__uuid__": "f87011e1-5e92-4dec-8686-49e1a590ad29"
+    },
+    "house": {
+      "__uuid__": "766ad8c3-75f3-498d-9b55-83a9c401000f"
+    },
+    "houseDefault": {
+      "__uuid__": "af909230-72fc-40ec-9325-a0ac63b5810c"
+    },
+    "houseSelect": {
+      "__uuid__": "7d81c921-ad44-4063-9f73-bbc4ecde104b"
+    },
+    "inputBg": {
+      "__uuid__": "619c723e-f5d0-432c-b2ce-c2c25157cb39"
+    },
+    "jiaobiao": {
+      "__uuid__": "d19644f8-38cf-4dd4-97d0-c1b31df2a395"
+    },
+    "jingqi": {
+      "__uuid__": "7fd60ee4-7feb-4803-985c-05cb78d09352"
+    },
+    "line_x": {
+      "__uuid__": "43a5be55-ae66-460a-a06c-4301ee0f1b24"
+    },
+    "makertInfos": {
+      "__uuid__": "2f2de74f-6e21-4dfd-aece-4d19b49efeb6"
+    },
+    "marketDefault": {
+      "__uuid__": "9ba698ee-c43a-4c5e-a38d-70ebe6eea89f"
+    },
+    "marketSelect": {
+      "__uuid__": "b911e8e3-3474-4af1-b0cb-dccd0f24af6a"
+    },
+    "market_flook": {
+      "__uuid__": "267be635-6824-49ec-a888-4d02d0c0b37f"
+    },
+    "mateDefault": {
+      "__uuid__": "957087b3-e517-4a4d-80d2-b033d14fab0b"
+    },
+    "mateSelect": {
+      "__uuid__": "81e1d4ab-dc01-4aca-b0d3-8e3f60efbfd2"
+    },
+    "more": {
+      "__uuid__": "423d2cfe-87dc-4d2d-ae28-f761204055c9"
+    },
+    "morecapcity": {
+      "__uuid__": "102ae742-0468-4689-a49f-8ff0e2e5998c"
+    },
+    "owned": {
+      "__uuid__": "7969fc6e-1239-4c9c-835b-fa81427bc2fa"
+    },
+    "random_shaizi": {
+      "__uuid__": "cc01f904-f4bb-44d9-9977-7addc2f99079"
+    },
+    "rank": {
+      "__uuid__": "6eab300d-580a-40ff-acd3-9d335a86132a"
+    },
+    "redBtnBg": {
+      "__uuid__": "d568b330-2674-4bc0-bf1e-8a92630c5213"
+    },
+    "retire": {
+      "__uuid__": "7793847f-c0d8-40d0-9b9b-e3a706660e0f"
+    },
+    "retire_txt": {
+      "__uuid__": "7619f4c3-608d-46e0-937a-9973e231f97d"
+    },
+    "saleT": {
+      "__uuid__": "66ece51c-a2fc-432b-9c90-b5c09feaf108"
+    },
+    "sale_txt": {
+      "__uuid__": "f70c7a7e-82a7-4be8-aabc-ab3795d50248"
+    },
+    "scxx": {
+      "__uuid__": "cfbd22dd-0fdd-4b08-94e0-26241c312417"
+    },
+    "sdown": {
+      "__uuid__": "50a20e33-bc8d-4870-9a90-f2ae7277e9c1"
+    },
+    "shareBtn": {
+      "__uuid__": "88a7c23f-dff7-49c0-a650-e7e3a649ffaf"
+    },
+    "shouzhi": {
+      "__uuid__": "f53bd1a3-c8eb-458a-b9e7-923caeb1b338"
+    },
+    "skillFg": {
+      "__uuid__": "cd6791f9-e22f-4e31-bc26-4accfc9e7bf1"
+    },
+    "skillpointBtn": {
+      "__uuid__": "2c3002f3-7f22-4a17-a3de-5357775f5de8"
+    },
+    "slidebar": {
+      "__uuid__": "9f509d5f-11b3-48e8-ac94-037877608478"
+    },
+    "slidebg": {
+      "__uuid__": "79b1e1f7-98c5-4ffe-8701-822b94ce0537"
+    },
+    "slidefg": {
+      "__uuid__": "b2abd2ca-92b7-433a-b362-816520642b54"
+    },
+    "state_1": {
+      "__uuid__": "0fa193c7-a464-4df7-989d-a26ac739ac38"
+    },
+    "state_2": {
+      "__uuid__": "f390c07f-a53f-43d5-9512-54021ebbd957"
+    },
+    "state_3": {
+      "__uuid__": "06fd8872-2932-4c16-af18-9705b85d7623"
+    },
+    "stock_num": {
+      "__uuid__": "f4a9f50b-efe7-4a24-98b0-c2348bb440a0"
+    },
+    "sylx": {
+      "__uuid__": "3bb3da7e-898d-41b3-9459-b8e35b0c023e"
+    },
+    "text_1": {
+      "__uuid__": "95a7b20e-7f51-4e47-9f8c-c9d7ba929b51"
+    },
+    "text_10": {
+      "__uuid__": "830fb2ab-5456-4568-957e-9732b1997191"
+    },
+    "text_11": {
+      "__uuid__": "045d06f1-8854-4d96-8989-ff153e2abd1e"
+    },
+    "text_12": {
+      "__uuid__": "6440ecaf-a319-49f4-94db-234bfc19b240"
+    },
+    "text_13": {
+      "__uuid__": "71e4967e-8568-4f65-8a67-c1b9728a2e48"
+    },
+    "text_14": {
+      "__uuid__": "f26be315-f004-456d-9a78-8e2bf15dacfa"
+    },
+    "text_2": {
+      "__uuid__": "b4d866ec-9733-4740-a90e-1b9714d005be"
+    },
+    "text_7": {
+      "__uuid__": "be934def-7b4c-4941-9765-353553924cda"
+    },
+    "text_8": {
+      "__uuid__": "6285b862-8e78-4bd8-a0f4-019906011d2b"
+    },
+    "text_9": {
+      "__uuid__": "d0fb58d5-8adb-43b7-bb02-ddff154d2372"
+    },
+    "text_age": {
+      "__uuid__": "cfe49f15-65d9-4fb9-b1a3-0761927b1c12"
+    },
+    "text_bnum": {
+      "__uuid__": "47bd9180-f0ac-4edb-9ad4-d78cefdf1bac"
+    },
+    "text_buy": {
+      "__uuid__": "42fe6429-1a5d-4a9f-8fe1-04c2c5c7b999"
+    },
+    "text_buycar": {
+      "__uuid__": "e25a2d94-a2a4-47a3-ba4c-3fce986d03d1"
+    },
+    "text_buyhouse": {
+      "__uuid__": "c227feaf-7424-46bb-9303-60482bd1eb92"
+    },
+    "text_car": {
+      "__uuid__": "eaf63c51-f665-4e7f-aab1-c89568a77673"
+    },
+    "text_cash": {
+      "__uuid__": "79697137-ee8d-4b71-b28b-37ef0a6d2a36"
+    },
+    "text_cost": {
+      "__uuid__": "789b8169-3e01-4bf9-8e62-aad49e0809c7"
+    },
+    "text_date": {
+      "__uuid__": "a2e90e4f-d299-4431-86f3-cb0d28ef4654"
+    },
+    "text_goods": {
+      "__uuid__": "5efd6cc9-d6d2-46c7-8c6c-d36a466e3cf9"
+    },
+    "text_has": {
+      "__uuid__": "40bbe134-68c5-4153-aa19-ce00a23a3467"
+    },
+    "text_health": {
+      "__uuid__": "ed83da8b-4ac5-4818-a6f7-e65c5eacfbfa"
+    },
+    "text_inprice": {
+      "__uuid__": "bcdfc609-88ff-4dd1-a291-9f6386d9cb17"
+    },
+    "text_lovePoint": {
+      "__uuid__": "6440c690-7ac5-4e78-81d9-363fd2c562b6"
+    },
+    "text_market": {
+      "__uuid__": "04c08ced-cd5f-4bda-8feb-56c48fe221c8"
+    },
+    "text_name": {
+      "__uuid__": "3bd7a5b8-66d1-4468-ad87-5c4798c8c94e"
+    },
+    "text_num": {
+      "__uuid__": "32d4ea5d-6247-41ae-8a2a-02b1c94637b7"
+    },
+    "text_operwarehouse": {
+      "__uuid__": "c1499544-fe60-4b0e-bbe2-3713d1ce42a3"
+    },
+    "text_price": {
+      "__uuid__": "c812fa98-8faf-498c-ad9a-fee5ce9d5b2e"
+    },
+    "text_reputation": {
+      "__uuid__": "5ce6cdfe-5cfd-4db0-b35b-39aaf4c2add0"
+    },
+    "text_sale": {
+      "__uuid__": "7a07b253-9467-4c5b-92bf-23e4bf4a407d"
+    },
+    "text_touzi": {
+      "__uuid__": "387dc32f-bdf3-4a16-beee-5dce03e6d19d"
+    },
+    "text_treat": {
+      "__uuid__": "3501f843-3f64-4320-b1ab-debb93632dce"
+    },
+    "text_warehouse": {
+      "__uuid__": "ca9bac7b-742d-4b24-83ab-0c75370d5aa6"
+    },
+    "up": {
+      "__uuid__": "4f577933-c247-4c52-a0c5-5325b9e3b19d"
+    },
+    "videoBtn": {
+      "__uuid__": "35799faf-8e22-45a6-a124-605b975ae760"
+    },
+    "video_active_txt": {
+      "__uuid__": "2eac5949-0b4f-45d3-9e1c-580759ab30ba"
+    }
+  }
+}

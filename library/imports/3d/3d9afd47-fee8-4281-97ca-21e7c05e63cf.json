@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "betbig",
+    "texture": "013333a5-c86b-45ff-9857-c293065e1c19",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      598,
+      936
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      598,
+      936
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

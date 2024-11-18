@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zongrenshu",
+    "texture": "f035436a-9591-4a16-87c1-4dbb4a09a531",
+    "atlas": "c2802fac-91e7-427f-b845-b976bb609cc5",
+    "rect": [
+      238,
+      861,
+      157,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      157,
+      33
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

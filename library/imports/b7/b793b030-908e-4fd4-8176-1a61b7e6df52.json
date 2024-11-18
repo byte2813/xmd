@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "doubleYouhui",
+    "texture": "12337a46-1d14-48f6-be27-50b5d05c14c4",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      386,
+      159
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      387,
+      159
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

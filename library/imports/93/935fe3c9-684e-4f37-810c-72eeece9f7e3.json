@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "biggushen",
+    "texture": "57ada61d-3cbe-4354-b0fb-9f77b3c3d45c",
+    "atlas": "",
+    "rect": [
+      59,
+      54,
+      306,
+      375
+    ],
+    "offset": [
+      -4,
+      -19.5
+    ],
+    "originalSize": [
+      432,
+      444
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

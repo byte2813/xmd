@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baoxian",
+    "texture": "470a426c-e248-432f-9f2b-103b92acd5f4",
+    "atlas": "f6aceac7-91c6-45c3-a345-fbcbcd806c02",
+    "rect": [
+      381,
+      261,
+      128,
+      120
+    ],
+    "offset": [
+      0,
+      -4
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

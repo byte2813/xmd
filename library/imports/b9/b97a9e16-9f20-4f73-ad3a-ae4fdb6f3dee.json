@@ -1,0 +1,92 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "bigcom.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "aishen": {
+      "__uuid__": "596bed91-d730-42a7-89e8-4d2b188c0457"
+    },
+    "belongTip": {
+      "__uuid__": "654ff707-29f2-407d-98c4-d2f48ed559c8"
+    },
+    "betbg": {
+      "__uuid__": "2d26307e-0e4b-4d1b-a76f-fa417fdb4cac"
+    },
+    "betstart": {
+      "__uuid__": "26b52bc3-8f9b-4a96-ae61-989d2c58b31e"
+    },
+    "big_pencil": {
+      "__uuid__": "8a550b7f-17cc-4680-bdd2-e9865735b1d4"
+    },
+    "caishen": {
+      "__uuid__": "28a53b1e-3817-4562-9679-e734569442ba"
+    },
+    "coin": {
+      "__uuid__": "39aea8b4-ce54-460a-95b1-0f462f184b89"
+    },
+    "dateChatBg": {
+      "__uuid__": "44837430-0670-4be4-86b8-47226567ea0a"
+    },
+    "datebg": {
+      "__uuid__": "0a86423f-d549-4fd4-8ed3-ba331dc4ec8a"
+    },
+    "datenav": {
+      "__uuid__": "d48cd03b-7a9b-42e9-9bd6-38cbb22f9110"
+    },
+    "dushen": {
+      "__uuid__": "7c80b282-88c9-4d6f-ade7-555138d70a6a"
+    },
+    "fenshou_txt": {
+      "__uuid__": "8f457ac9-5737-4415-9a32-8f51cddf3e6e"
+    },
+    "fensou": {
+      "__uuid__": "4e15521c-25ef-4fa7-96d8-927fe230cbc6"
+    },
+    "gushen": {
+      "__uuid__": "5c5b7c45-ccc8-4b93-b25a-40bb626b5925"
+    },
+    "jokerSp": {
+      "__uuid__": "7ddf80a9-46a4-47f6-9f3a-acb7a593b9d0"
+    },
+    "lhj1": {
+      "__uuid__": "d183a2d4-6456-4584-b693-d336ebe0f5ec"
+    },
+    "lhj2": {
+      "__uuid__": "ef0fdaa0-3a51-40e2-aed6-0b11b6bfc61c"
+    },
+    "lhj_start": {
+      "__uuid__": "e97dba4d-b968-4ba9-ad89-1727edfdc4a8"
+    },
+    "marryCondBg": {
+      "__uuid__": "6cd895be-d556-46cb-bf4e-c1fa40a29c2c"
+    },
+    "marry_cond": {
+      "__uuid__": "52f90cbf-6a2c-4865-935b-30fca7331bda"
+    },
+    "nextyear": {
+      "__uuid__": "5b550f18-56d0-4d00-84f9-fb3df16c8323"
+    },
+    "pen": {
+      "__uuid__": "15dd8b22-3ba9-4d33-840c-fb62cc8e5304"
+    },
+    "photobg": {
+      "__uuid__": "205896b8-e8f9-4dfe-a570-e0be5ee65389"
+    },
+    "share_txt": {
+      "__uuid__": "0ae2b7e6-c48b-4155-8aeb-d59cbb8294cd"
+    },
+    "title_nav": {
+      "__uuid__": "f84bdcfc-2c13-49c6-b52a-0dd0897ce297"
+    },
+    "topNav": {
+      "__uuid__": "0a988e10-2dee-41c0-b00f-2a2dc2462642"
+    },
+    "treat_bg": {
+      "__uuid__": "e1700ba0-513b-40d4-988a-c6cd18eb3b9e"
+    },
+    "zhen": {
+      "__uuid__": "c2510607-56b3-44c6-b768-b397128c48eb"
+    }
+  }
+}
