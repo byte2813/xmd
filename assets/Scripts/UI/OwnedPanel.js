@@ -58,9 +58,9 @@ var OwnedPanel = cc.Class({
         }
 
         /*
-        var carList = cc.Mgr.UserDataMgr.getOwnDataListByType(ItemType.Car);
+        var carList = cc.Mgr.UserDataMgr.getOwnDataListByType(ItemType.Auto);
         for (var i = carList.length - 1; i >= 0; i--) {
-            if(this.judeIsInitAndRefresh(ItemType.Car, carList[i]))
+            if(this.judeIsInitAndRefresh(ItemType.Auto, carList[i]))
             {
                 //cc.log("不用再实例化，已经有了");
             }
@@ -69,13 +69,13 @@ var OwnedPanel = cc.Class({
                 //cc.log("实例化车子");
                 var obj = cc.instantiate(this.ownedPre);
                 obj.parent = this.ownedParent;
-                obj.getComponent("BelongItem").init(carList[i], ItemType.Car);
+                obj.getComponent("BelongItem").init(carList[i], ItemType.Auto);
             }
         }
 
-        var houseList = cc.Mgr.UserDataMgr.getOwnDataListByType(ItemType.House);
+        var houseList = cc.Mgr.UserDataMgr.getOwnDataListByType(ItemType.Eco);
         for (var i = houseList.length - 1; i >= 0; i--) {
-            if(this.judeIsInitAndRefresh(ItemType.House, houseList[i]))
+            if(this.judeIsInitAndRefresh(ItemType.Eco, houseList[i]))
             {
                 //cc.log("不用再实例化，已经有了");
             }
@@ -84,7 +84,7 @@ var OwnedPanel = cc.Class({
                 //cc.log("实例化房子");
                 var obj = cc.instantiate(this.ownedPre);
                 obj.parent = this.ownedParent;
-                obj.getComponent("BelongItem").init(houseList[i], ItemType.House);
+                obj.getComponent("BelongItem").init(houseList[i], ItemType.Eco);
             }
         }
 

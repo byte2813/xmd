@@ -1,4 +1,4 @@
-//需要更多源码联系Q:3038745955
+
 //游戏记录
 var RecordStruct = cc.Class({
 	name:"RecordStruct",

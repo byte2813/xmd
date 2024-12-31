@@ -1,4 +1,3 @@
-//需要更多源码联系Q:3038745955
 //拥有的车
 var CarStruct = cc.Class({
 	name:"CarStruct",
